@@ -1,0 +1,8 @@
+//Flotantes
+https://www.mclibre.org/consultar/python/lecciones/python-operaciones-matematicas.html#:~:text=La%20funci%C3%B3n%20integrada%20round()%20redondea%20correctamente%20al%20n%C3%BAmero%20m%C3%A1s,a%20d%C3%A9cimas%2C%20etc.).
+
+//Algoritmo de fuerza bruta
+https://es.wikipedia.org/wiki/B%C3%BAsqueda_de_fuerza_bruta
+
+//Problema de la cobertura de vértices
+https://es.wikipedia.org/wiki/Problema_de_la_cobertura_de_v%C3%A9rtices
